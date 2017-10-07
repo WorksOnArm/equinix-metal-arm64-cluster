@@ -13,6 +13,7 @@ by using a Packet Type 2A server as a fast build machine for `linuxkit` images.
 ### Discussion and tracking issues
 
 * #linuxkit channel on the Docker Community Slack
+* #worksonarm channel on the Packet Community Slack
 * https://github.com/WorksOnArm/cluster/issues/12 - project proposal
 * https://github.com/linuxkit/linuxkit/issues/2574 - tracking issue 
 
