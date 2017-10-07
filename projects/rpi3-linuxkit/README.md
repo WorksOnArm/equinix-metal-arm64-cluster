@@ -3,6 +3,11 @@
 This project seeks to speed up development of `linuxkit` on the Raspberry Pi 3 
 by using a Packet Type 2A server as a fast build machine for `linuxkit` images.
 
+Short term, the effort is using a Raspberry Pi 3 kernel from Dieter Reuter.
+The longer term effort is to incorporate a mainline kernel in.
+
+Current project status as of October 7, 2017 is that a test system is booting.
+
 ### Participants
 
 * Dave Henderson
