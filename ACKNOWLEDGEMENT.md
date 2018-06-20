@@ -1,3 +1,5 @@
+# Thanks and acknowledgements
+
 Thank you for using the Works on Arm cluster. We are happy that
 your project has had a successful outcome, and that you are
 sharing your success in a conference presentation, blog post,
@@ -29,3 +31,7 @@ You can also mention @worksonarm in your Github checkins.
 we'll see it and retweet as appropriate.
 
 Thanks for all your help!
+
+Ed Vielmetti, Works on Arm
+
+ed@packet.net
