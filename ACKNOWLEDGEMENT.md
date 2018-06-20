@@ -9,7 +9,7 @@ any questions, reach out to Ed Vielmetti at ed@packet.net.
 
 1. If you're giving a conference presentation, please acknowledge
 us on a slide and send a link to or copy of the presentation.
-Logos suitable for use are located at [location].
+Logos suitable for use are available upon request.
 
 2. If you're writing a blog post, please provide a link to the
 Works on Arm project at http://worksonarm.com. We're happy to 
