@@ -19,6 +19,8 @@ Let us know if you need short-term (one time) support, or if this is a request f
 continuous ongoing support. If possible, please identify foundations or other
 support organizations that can help with long-running projects.
 
+### Describe the continuous integration (CI) system in use or desired for this project.
+
 ### Please state your contributions to the open source community and any other relevant initiatives
 
 Brag a little bit about yourself, please!
