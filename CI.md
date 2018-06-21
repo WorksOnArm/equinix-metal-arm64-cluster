@@ -17,9 +17,13 @@ is out of date.
 
 ### CMake
 
+### Codefresh
+
 ### Gitlab
 
 ### Jenkins
+
+### Shippable
 
 ### TravisCI
 
