@@ -13,8 +13,14 @@ is out of date.
 
 ### buildbot
 
+### CircleCI
+
 ### CMake
 
 ### Gitlab
 
 ### Jenkins
+
+### TravisCI
+
+### VSTS
