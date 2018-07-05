@@ -11,6 +11,8 @@ is out of date.
 
 ### bazel
 
+Bazel is a build system derived from Google's internal "Blaze" system.
+
 ### buildbot
 
 ### CircleCI
@@ -19,12 +21,20 @@ is out of date.
 
 ### Codefresh
 
+### Github
+
+Github is a source code management system with integrations into many
+CI systems. Projects managed on Github can interface with CI through
+use of webhooks to trigger build events.
+
 ### Gitlab
 
 ### Jenkins
 
 ### Shippable
 
-### TravisCI
+### Travis CI
 
 ### VSTS
+
+VSTS is Visual Studio Team Services, a Microsoft product.
