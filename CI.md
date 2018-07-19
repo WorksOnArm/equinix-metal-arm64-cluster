@@ -27,6 +27,9 @@ Github is a source code management system with integrations into many
 CI systems. Projects managed on Github can interface with CI through
 use of webhooks to trigger build events.
 
+* http://www.gihtub.com
+* https://github.com/marketplace/category/continuous-integration
+
 ### Gitlab
 
 ### Jenkins
