@@ -45,7 +45,7 @@ It can be used with [Github](https://jenkins.io/solutions/github/).
 ### Shippable
 
 Shippable's DevOps Automation platform gives you an easy way to set up Continuous Integration (CI) for your projects and automate unit testing, packaging, and deployment for any change in your source control repository (i.e. Github). As soon as your project is open-source, you just have to open an account at Shippable, add a `shippable.yml` file to your repo, add a link from your Shippable account to your github repo, and you're done, you can [build](https://github.com/gounthar/docker-adb/tree/stretch) on ARM64.
-The only drawback is that you can't build ARM Docker images on it, or not easily. The [documentation(http://docs.shippable.com/platform/tutorial/workflow/run-ci-builds-on-arm/) is very well done.
+The only drawback is that you can't build ARM Docker images on it, or not easily. The [documentation](http://docs.shippable.com/platform/tutorial/workflow/run-ci-builds-on-arm/) is very well done.
 
 ### Travis CI
 
