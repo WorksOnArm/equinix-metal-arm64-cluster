@@ -8,7 +8,7 @@ Project categories include, but are not limited to:
 * Operating systems
 * Virtualization and time sharing
 * Containers and Kubernetes
-* Languages and libraries
+* [Languages and libraries](https://github.com/WorksOnArm/cluster/blob/master/projects/languages-and-libraries/README.md)
 * Big Data, HPC, and Scientific Computing
 * Build systems and source code management
 * Telco and network support
