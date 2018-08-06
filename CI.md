@@ -9,17 +9,27 @@ If you are changing this file, please date stamp your changes.
 You can safely assume that any report more than 6 months old
 is out of date.
 
+Ed Vielmetti, Works on Arm, 2018-08-06
+
 ### bazel
 
-Bazel is a build system derived from Google's internal "Blaze" system.
+[Bazel](https://bazel.build/) is a build system derived from Google's internal "Blaze" system.
 
 ### buildbot
 
+[Buildbot](https://buildbot.net/) is a continuous integration framework.
+
 ### CircleCI
+
+[CircleCI](https://circleci.com/) is a a modern continuous integration and continuous delivery (CI/CD) platform.
 
 ### CMake
 
+[CMake](https://cmake.org/) is an open-source, cross-platform family of tools designed to build, test and package software.
+
 ### Codefresh
+
+[Codefresh](https://codefresh.io/) is a continuous delivery platform built for Kubernetes.
 
 ### Github
 
