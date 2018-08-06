@@ -5,7 +5,7 @@ and a README file in that directory has a list of projects.
 
 Project categories include, but are not limited to:
 
-* Operating systems
+* [Operating systems](https://github.com/WorksOnArm/cluster/tree/master/projects/operating-systems/README.md)
 * Virtualization and time sharing
 * Containers and Kubernetes
 * [Languages and libraries](https://github.com/WorksOnArm/cluster/blob/master/projects/languages-and-libraries/README.md)
