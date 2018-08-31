@@ -52,6 +52,14 @@ Jenkins is a self-contained, open source automation server which can be used to 
 Jenkins can be installed through native system packages, Docker, or even run standalone by any machine with a Java Runtime Environment (JRE) installed.
 It can be used with [Github](https://jenkins.io/solutions/github/).
 
+### Open Build Service (OBS)
+
+### OpenHPC
+
+OpenHPC is a Linux Foundation collaborative project that provides a variety of common, pre-built ingredients required to deploy and manage an HPC Linux cluster including provisioning tools, resource management, I/O clients, runtimes, development tools, and a variety of scientific libraries. We currently support ARM and x86_64 on two OS distributions. Any site interested in deploying an HPC cluster on ARM can potentially benefit from one or more packaged components and/or validated installation recipes.
+
+The build system is based on a standalone instance of the Open Build Service that is at https://build.openhpc.community. A c1.large.arm instance is used to run OpenSUSE for the OBS build farm to support dedicated ARM builds.
+
 ### Shippable
 
 Shippable's DevOps Automation platform gives you an easy way to set up Continuous Integration (CI) for your projects and automate unit testing, packaging, and deployment for any change in your source control repository (i.e. Github). As soon as your project is open-source, you just have to open an account at Shippable, add a `shippable.yml` file to your repo, add a link from your Shippable account to your github repo, and you're done, you can [build](https://github.com/gounthar/docker-adb/tree/stretch) on ARM64.
