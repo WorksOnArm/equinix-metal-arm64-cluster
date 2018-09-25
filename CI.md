@@ -29,7 +29,7 @@ Ed Vielmetti, Works on Arm, 2018-08-06
 
 ### Codefresh
 
-[Codefresh](https://codefresh.io/) is a continuous delivery platform built for Kubernetes.
+[Codefresh](https://codefresh.io/) is a continuous delivery platform built for Kubernetes. Once you create a free account, you can [enable ARM support](https://codefresh.io/docs/docs/incubation/arm-support/) and start building Docker images for ARM. There is no other special configuration needed. All Codefresh features (unit/integration tests, private Docker registry, on-demand demo environments, HELM/Kubernetes deployments etc.) are fully available for ARM builds.
 
 ### Github
 
