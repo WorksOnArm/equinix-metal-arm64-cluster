@@ -14,6 +14,9 @@ Ed Vielmetti, Works on Arm, 2018-08-06
 ### bazel
 
 [Bazel](https://bazel.build/) is a build system derived from Google's internal "Blaze" system.
+Notably it is the build system used for Tensorflow, a math library used for machine learning.
+Work is [underway as of August 2018](https://github.com/WorksOnArm/cluster/issues/102)
+to port Bazel and its rule sets to arm64.
 
 ### buildbot
 
