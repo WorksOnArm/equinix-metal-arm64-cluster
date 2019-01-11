@@ -1,0 +1,8 @@
+---
+title: Alphabetical list of projects, with links to CI and issues
+---
+
+### An alphabetical list of projects for Works on Arm.
+
+* [Adopt OpenJDK](https://adoptopenjdk.net/). CI: [Jenkins](https://ci.adoptopenjdk.net/). Issues: [Github](https://github.com/AdoptOpenJDK)
+* [Julia Language](https://julialang.org/). CI: [Buildbot](https://build.julialang.org/#/). Issues: [Github](https://github.com/JuliaLang/julia)
