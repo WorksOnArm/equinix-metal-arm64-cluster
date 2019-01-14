@@ -7,6 +7,7 @@ title: Alphabetical list of projects, with links to CI and issues
 * [Adopt OpenJDK](https://adoptopenjdk.net/). Proposal: [6](https://github.com/WorksOnArm/cluster/issues/6). CI: [Jenkins](https://ci.adoptopenjdk.net/). Issues: [Github](https://github.com/AdoptOpenJDK). Releases: [Website](https://adoptopenjdk.net/releases.html#aarch64_linux).
 * FD.IO. Proposal: [56](https://github.com/WorksOnArm/cluster/issues/56).
 * [Glasgow Haskell Compiler](https://www.haskell.org/ghc/). CI: [Gitlab](https://gitlab.haskell.org/ghc/ghc/pipelines). CI: [Travis CI](https://travis-ci.org/ghc/ghc) Issues: [Trac](https://ghc.haskell.org/trac/ghc).
+* GNOME. Proposal: [55](https://github.com/WorksOnArm/cluster/issues/55).
 * [Go](https://golang.org). CI: [Gerrit](https://build.golang.org/). Issues: [Github](https://github.com/golang/go).
 * Haskell. Proposal: [123](https://github.com/WorksOnArm/cluster/issues/123). CI: GitLab.
 * [HPX](https://github.com/STEllAR-GROUP/hpx). Proposal: [120](https://github.com/WorksOnArm/cluster/issues/120). CI: [Gitlab](https://gitlab.com/stellar-group/hpx). Issues: [Github](https://github.com/STEllAR-GROUP/hpx/issues) [+platform:ARM](https://github.com/STEllAR-GROUP/hpx/issues?utf8=%E2%9C%93&q=label%3A%22platform%3A+ARM%22+)
