@@ -5,6 +5,7 @@ title: Alphabetical list of projects, with links to CI and issues
 ### An alphabetical list of projects for Works on Arm.
 
 * [Adopt OpenJDK](https://adoptopenjdk.net/). Proposal: [6](https://github.com/WorksOnArm/cluster/issues/6). CI: [Jenkins](https://ci.adoptopenjdk.net/). Issues: [Github](https://github.com/AdoptOpenJDK). Releases: [Website](https://adoptopenjdk.net/releases.html#aarch64_linux).
+* FD.IO. Proposal: [56](https://github.com/WorksOnArm/cluster/issues/56).
 * [Glasgow Haskell Compiler](https://www.haskell.org/ghc/). CI: [Gitlab](https://gitlab.haskell.org/ghc/ghc/pipelines). CI: [Travis CI](https://travis-ci.org/ghc/ghc) Issues: [Trac](https://ghc.haskell.org/trac/ghc).
 * [Go](https://golang.org). CI: [Gerrit](https://build.golang.org/). Issues: [Github](https://github.com/golang/go).
 * Haskell. Proposal: [123](https://github.com/WorksOnArm/cluster/issues/123). CI: GitLab.
