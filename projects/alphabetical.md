@@ -4,7 +4,7 @@ title: Alphabetical list of projects, with links to CI and issues
 
 ### An alphabetical list of projects for Works on Arm.
 
-* [Adopt OpenJDK](https://adoptopenjdk.net/). CI: [Jenkins](https://ci.adoptopenjdk.net/). Issues: [Github](https://github.com/AdoptOpenJDK)
+* [Adopt OpenJDK](https://adoptopenjdk.net/). CI: [Jenkins](https://ci.adoptopenjdk.net/). Issues: [Github](https://github.com/AdoptOpenJDK). Releases: [Website](https://adoptopenjdk.net/releases.html#aarch64_linux).
 * [Glasgow Haskell Compiler](https://www.haskell.org/ghc/). CI: [Gitlab](https://gitlab.haskell.org/ghc/ghc/pipelines). CI: [Travis CI](https://travis-ci.org/ghc/ghc) Issues: [Trac](https://ghc.haskell.org/trac/ghc).
 * [Go](https://golang.org). CI: [Gerrit](https://build.golang.org/). Issues: [Github](https://github.com/golang/go).
 * [HPX](https://github.com/STEllAR-GROUP/hpx). CI: [Gitlab](https://gitlab.com/stellar-group/hpx). Issues: [Github](https://github.com/STEllAR-GROUP/hpx/issues) [+aarch64+arm64](https://github.com/STEllAR-GROUP/hpx/issues?utf8=%E2%9C%93&q=is%3Aissue+arm64+OR+aarch64)
