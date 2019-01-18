@@ -9,6 +9,8 @@ it is still useful. Edits? PR here, or email ed@packet.com, or comment
 on [issue 121](https://github.com/WorksOnArm/cluster/issues/121).
 
 * [Adopt OpenJDK](https://adoptopenjdk.net/). Proposal: [6](https://github.com/WorksOnArm/cluster/issues/6). CI: [Jenkins](https://ci.adoptopenjdk.net/). Issues: [Github](https://github.com/AdoptOpenJDK). Releases: [Website](https://adoptopenjdk.net/releases.html#aarch64_linux).
+* Bazel.
+* Conda.
 * Docker.
 * Envoy.
 * FD.IO. Proposal: [56](https://github.com/WorksOnArm/cluster/issues/56).
@@ -21,6 +23,7 @@ on [issue 121](https://github.com/WorksOnArm/cluster/issues/121).
 * IncludeOS. Proposal: 118. CI: [Jenkins](https://jenkins.includeos.org/).
 * [Julia Language](https://julialang.org/). CI: [Buildbot](https://build.julialang.org/#/). Issues: [Github](https://github.com/JuliaLang/julia) [+aarch64+arm64](https://github.com/JuliaLang/julia/search?q=arm64+OR+aarch64&state=open&type=Issues).
 * Kubernetes.
+* Numba.
 * OCaml. Proposal: [5](https://github.com/WorksOnArm/cluster/issues/5).
 * Prometheus.
 * PyPy.
