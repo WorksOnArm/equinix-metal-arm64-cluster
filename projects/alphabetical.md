@@ -13,6 +13,7 @@ on [issue 121](https://github.com/WorksOnArm/cluster/issues/121).
 * Bazel.
 * bpftrace. [Issue 338](https://github.com/iovisor/bpftrace/issues/338)
 * Conda.
+* Debian.
 * Docker.
 * Envoy.
 * FD.IO. Proposal: [56](https://github.com/WorksOnArm/cluster/issues/56).
