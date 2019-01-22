@@ -10,7 +10,7 @@ on [issue 121](https://github.com/WorksOnArm/cluster/issues/121).
 
 * [Adopt OpenJDK](https://adoptopenjdk.net/). Proposal: [6](https://github.com/WorksOnArm/cluster/issues/6). CI: [Jenkins](https://ci.adoptopenjdk.net/). Issues: [Github](https://github.com/AdoptOpenJDK). Releases: [Website](https://adoptopenjdk.net/releases.html#aarch64_linux).
 * Bazel.
-* bpftrace.
+* bpftrace. [Issue 338](https://github.com/iovisor/bpftrace/issues/338)
 * Conda.
 * Docker.
 * Envoy.
