@@ -9,7 +9,7 @@ it is still useful. Edits? PR here, or email ed@packet.com, or comment
 on [issue 121](https://github.com/WorksOnArm/cluster/issues/121).
 
 * [Adopt OpenJDK](https://adoptopenjdk.net/). Proposal: [6](https://github.com/WorksOnArm/cluster/issues/6). CI: [Jenkins](https://ci.adoptopenjdk.net/). Issues: [Github](https://github.com/AdoptOpenJDK). Releases: [Website](https://adoptopenjdk.net/releases.html#aarch64_linux).
-* Alpine Linux. Proposal: [50](https://github.com/WorksOnArm/clusters/issues/50). Issues: [Redmine](https://bugs.alpinelinux.org/projects/alpine/issues).
+* [Alpine Linux](https://alpinelinux.org/). Proposal: [50](https://github.com/WorksOnArm/clusters/issues/50). Issues: [Redmine](https://bugs.alpinelinux.org/projects/alpine/issues).
 * Bazel.
 * bpftrace. [Issue 338](https://github.com/iovisor/bpftrace/issues/338)
 * Conda.
