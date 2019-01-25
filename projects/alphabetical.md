@@ -32,5 +32,5 @@ on [issue 121](https://github.com/WorksOnArm/cluster/issues/121).
 * PyPy.
 * [QEMU](https://www.qemu.org/). CI: [Shippable](https://app.shippable.com/github/qemu/qemu/dashboard/history). Issues: [Launchpad](https://bugs.launchpad.net/qemu/) [+aarch64+arm64](https://bugs.launchpad.net/qemu/?field.searchtext=arm64+OR+aarch64&search=Search&field.status%3Alist=NEW&field.status%3Alist=INCOMPLETE_WITH_RESPONSE&field.status%3Alist=INCOMPLETE_WITHOUT_RESPONSE&field.status%3Alist=CONFIRMED&field.status%3Alist=TRIAGED&field.status%3Alist=INPROGRESS&field.status%3Alist=FIXCOMMITTED&field.assignee=&field.bug_reporter=&field.omit_dupes=on&field.has_patch=&field.has_no_package=)
 * railcar.
-* Tensorflow.
+* Tensorflow. [Issue 21332](https://github.com/tensorflow/tensorflow/issues/21332)
 * [Weaveworks kured](https://github.com/weaveworks/kured). CI: [Circle CI](https://circleci.com/gh/weaveworks/kured). Issues: [Github](https://github.com/weaveworks/kured/issues) [+arm64](https://github.com/weaveworks/kured/issues?utf8=%E2%9C%93&q=is%3Aopen+arm64).
