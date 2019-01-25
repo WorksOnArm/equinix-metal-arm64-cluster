@@ -25,7 +25,7 @@ on [issue 121](https://github.com/WorksOnArm/cluster/issues/121).
 * [HPX](https://github.com/STEllAR-GROUP/hpx). Proposal: [120](https://github.com/WorksOnArm/cluster/issues/120). CI: [Gitlab](https://gitlab.com/stellar-group/hpx). Issues: [Github](https://github.com/STEllAR-GROUP/hpx/issues) [+platform:ARM](https://github.com/STEllAR-GROUP/hpx/issues?utf8=%E2%9C%93&q=label%3A%22platform%3A+ARM%22+)
 * IncludeOS. Proposal: 118. CI: [Jenkins](https://jenkins.includeos.org/).
 * [Julia Language](https://julialang.org/). CI: [Buildbot](https://build.julialang.org/#/). Issues: [Github](https://github.com/JuliaLang/julia) [+aarch64+arm64](https://github.com/JuliaLang/julia/search?q=arm64+OR+aarch64&state=open&type=Issues).
-* [Kata Containers](https://katacontainers.io/). CI: [Jenkins](http://jenkins.katacontainers.io/).
+* [Kata Containers](https://katacontainers.io/). CI: [Jenkins](http://jenkins.katacontainers.io/), [CI issues](https://github.com/kata-containers/ci/issues).
 * Kubernetes.
 * [Linuxbrew](http://linuxbrew.sh/).
 * [LLVM](https://llvm.org/). Issues: [Bugzilla](https://bugs.llvm.org/) [+arm64|aarch64](https://bugs.llvm.org/buglist.cgi?quicksearch=arm64%20OR%20aarch64).
