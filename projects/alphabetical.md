@@ -18,11 +18,10 @@ on [issue 121](https://github.com/WorksOnArm/cluster/issues/121).
 * Envoy.
 * FD.IO. Proposal: [56](https://github.com/WorksOnArm/cluster/issues/56).
 * [Gitea](https://gitea.io/). Issues: [Github](https://github.com/go-gitea/gitea/issues) [Issue 531](https://github.com/go-gitea/gitea/issues/531).
-* [Glasgow Haskell Compiler](https://www.haskell.org/ghc/). CI: [Gitlab](https://gitlab.haskell.org/ghc/ghc/pipelines). CI: [Travis CI](https://travis-ci.org/ghc/ghc) Issues: [Trac](https://ghc.haskell.org/trac/ghc).
+* [Glasgow Haskell Compiler](https://www.haskell.org/ghc/). Proposal: [123](https://github.com/WorksOnArm/cluster/issues/123). CI: [Gitlab](https://gitlab.haskell.org/ghc/ghc/pipelines). CI: [Travis CI](https://travis-ci.org/ghc/ghc) Issues: [Trac](https://ghc.haskell.org/trac/ghc).
 * GNOME. Proposal: [55](https://github.com/WorksOnArm/cluster/issues/55).
 * [Go](https://golang.org). CI: [Gerrit](https://build.golang.org/). Issues: [Github](https://github.com/golang/go).
 * Grafana.
-* Haskell. Proposal: [123](https://github.com/WorksOnArm/cluster/issues/123). CI: GitLab.
 * [HPX](https://github.com/STEllAR-GROUP/hpx). Proposal: [120](https://github.com/WorksOnArm/cluster/issues/120). CI: [Gitlab](https://gitlab.com/stellar-group/hpx). Issues: [Github](https://github.com/STEllAR-GROUP/hpx/issues) [+platform:ARM](https://github.com/STEllAR-GROUP/hpx/issues?utf8=%E2%9C%93&q=label%3A%22platform%3A+ARM%22+)
 * IncludeOS. Proposal: 118. CI: [Jenkins](https://jenkins.includeos.org/).
 * [Julia Language](https://julialang.org/). CI: [Buildbot](https://build.julialang.org/#/). Issues: [Github](https://github.com/JuliaLang/julia) [+aarch64+arm64](https://github.com/JuliaLang/julia/search?q=arm64+OR+aarch64&state=open&type=Issues).
