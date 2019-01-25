@@ -26,6 +26,7 @@ on [issue 121](https://github.com/WorksOnArm/cluster/issues/121).
 * IncludeOS. Proposal: 118. CI: [Jenkins](https://jenkins.includeos.org/).
 * [Julia Language](https://julialang.org/). CI: [Buildbot](https://build.julialang.org/#/). Issues: [Github](https://github.com/JuliaLang/julia) [+aarch64+arm64](https://github.com/JuliaLang/julia/search?q=arm64+OR+aarch64&state=open&type=Issues).
 * Kubernetes.
+* [Linuxbrew](http://linuxbrew.sh/).
 * [LLVM](https://llvm.org/). Issues: [Bugzilla](https://bugs.llvm.org/) [+arm64|aarch64](https://bugs.llvm.org/buglist.cgi?quicksearch=arm64%20OR%20aarch64).
 * Numba.
 * OCaml. Proposal: [5](https://github.com/WorksOnArm/cluster/issues/5).
