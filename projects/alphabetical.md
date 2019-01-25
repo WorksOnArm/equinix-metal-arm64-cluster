@@ -17,6 +17,7 @@ on [issue 121](https://github.com/WorksOnArm/cluster/issues/121).
 * Docker.
 * Envoy.
 * FD.IO. Proposal: [56](https://github.com/WorksOnArm/cluster/issues/56).
+* [Gitea](https://gitea.io/). Issues: [Github](https://github.com/go-gitea/gitea/issues) [Issue 531](https://github.com/go-gitea/gitea/issues/531).
 * [Glasgow Haskell Compiler](https://www.haskell.org/ghc/). CI: [Gitlab](https://gitlab.haskell.org/ghc/ghc/pipelines). CI: [Travis CI](https://travis-ci.org/ghc/ghc) Issues: [Trac](https://ghc.haskell.org/trac/ghc).
 * GNOME. Proposal: [55](https://github.com/WorksOnArm/cluster/issues/55).
 * [Go](https://golang.org). CI: [Gerrit](https://build.golang.org/). Issues: [Github](https://github.com/golang/go).
