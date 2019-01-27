@@ -30,7 +30,9 @@ support organizations that can help with long-running projects.
 
 ### Describe the continuous integration (CI) system in use or desired for this project.
 
-### Describe the ongoing monitoring and reporting of systems use that you plan to use.
+### Describe the monitoring system in use or desired for this project.
+
+Are you running an agent on any long-running servers to track system status? Are you willing to share that data with the project?
 
 ### Please state your contributions to the open source community and any other relevant initiatives
 
