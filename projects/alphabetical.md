@@ -58,6 +58,7 @@ on [issue 121](https://github.com/WorksOnArm/cluster/issues/121).
 * Numba.
 * OCaml. Proposal: [5](https://github.com/WorksOnArm/cluster/issues/5).
 * ONAP.
+* OpenCORD.
 * OpenEBS.
 * OpenEmbedded.
 * OpenFaaS.
