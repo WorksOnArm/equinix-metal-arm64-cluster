@@ -8,7 +8,7 @@ This list is known to be very incomplete, but it is to be hoped that
 it is still useful. Edits? PR here, or email ed@packet.com, or comment
 on [issue 121](https://github.com/WorksOnArm/cluster/issues/121).
 
-* Adélie Linux.
+* [Adélie Linux](https://www.adelielinux.org/).
 * [Adopt OpenJDK](https://adoptopenjdk.net/). Proposal: [6](https://github.com/WorksOnArm/cluster/issues/6). CI: [Jenkins](https://ci.adoptopenjdk.net/). Issues: [Github](https://github.com/AdoptOpenJDK). Releases: [Website](https://adoptopenjdk.net/releases.html#aarch64_linux).
 * [Alpine Linux](https://alpinelinux.org/). Proposal: [50](https://github.com/WorksOnArm/clusters/issues/50). Issues: [Redmine](https://bugs.alpinelinux.org/projects/alpine/issues).
 * Apache BigTop.
