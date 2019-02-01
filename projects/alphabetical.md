@@ -28,7 +28,7 @@ on [issue 121](https://github.com/WorksOnArm/cluster/issues/121).
 * FD.IO. Proposal: [56](https://github.com/WorksOnArm/cluster/issues/56).
 * Fedora CoreOS.
 * gcc. Proposal: [98](https://github.com/WorksOnArm/cluster/issues/98).
-* gdb. Proposal: [98](https://github.com/WorksOnArm/cluster/issues/98).
+* gdb. Proposal: [98](https://github.com/WorksOnArm/cluster/issues/98). CI: [Buildbot](https://gdb-build.sergiodj.net/waterfall?tag=aarch64).
 * Gentoo Linux.
 * [Gitea](https://gitea.io/). Issues: [Github](https://github.com/go-gitea/gitea/issues) [Issue 531](https://github.com/go-gitea/gitea/issues/531).
 * [Glasgow Haskell Compiler](https://www.haskell.org/ghc/). Proposal: [123](https://github.com/WorksOnArm/cluster/issues/123). CI: [Gitlab](https://gitlab.haskell.org/ghc/ghc/pipelines). CI: [Travis CI](https://travis-ci.org/ghc/ghc) Issues: [Trac](https://ghc.haskell.org/trac/ghc).
