@@ -20,7 +20,9 @@ Note that projects with two or more participants are preferred.
 
 ### Which members of the community would benefit from your work?
 
-### Is the code that you’re going to run 100% open source? If so, what is the URL or URLs where it is located?
+### Is the code that you’re going to run 100% open source? 
+
+Provide the URLs where it is located, or a Git repository.
 
 ### What infrastructure (computing resources and network access) do you need? (see: https://www.packet.net/bare-metal/)?
 
@@ -30,9 +32,11 @@ support organizations that can help with long-running projects.
 
 ### Describe the continuous integration (CI) system in use or desired for this project.
 
+Are you testing every check-in on arm64? (Would you like to?) If so, share a public URL of a CI dashboard.
+
 ### Describe the monitoring system in use or desired for this project.
 
-Are you running an agent on any long-running servers to track system status? Are you willing to share that data with the project?
+Are you running an agent on any long-running servers to track system status? Are you willing to share that data with the project? Examples might include a Prometheus metric endpoint or a Grafana dashboard.
 
 ### Please state your contributions to the open source community and any other relevant initiatives
 
