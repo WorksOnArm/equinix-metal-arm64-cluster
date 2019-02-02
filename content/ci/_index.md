@@ -1,5 +1,5 @@
 ---
-title: Continuous Integration (CI) on arm64 at Packet
+title: Continuous Integration (CI)
 ---
 
 This handy guide lists a set of CI and build systems that have been 
