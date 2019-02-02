@@ -6,8 +6,8 @@ title: OpenHPC
 a variety of common, pre-built ingredients required to deploy and 
 manage an HPC Linux cluster including provisioning tools, resource 
 management, I/O clients, runtimes, development tools, and a variety 
-of scientific libraries. We currently support ARM and x86_64 on t
-wo OS distributions. Any site interested in deploying an HPC cluster 
+of scientific libraries. We currently support ARM and x86_64 on two 
+OS distributions. Any site interested in deploying an HPC cluster 
 on ARM can potentially benefit from one or more packaged components 
 and/or validated installation recipes.
 
