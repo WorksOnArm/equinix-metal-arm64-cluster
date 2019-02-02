@@ -2,7 +2,7 @@
 name: Works on Arm general proposal
 about: Propose a project for Works on Arm
 title: 'Proposal: [Your project name here]'
-labels: ''
+labels: 'proposal'
 assignees: vielmetti
 
 ---
