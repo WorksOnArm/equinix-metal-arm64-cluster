@@ -1,7 +1,7 @@
 ---
-title: Notes on building 32-bit Arm at Packet
+title: 32-bit Arm
 ---
-# Notes on building 32-bit Arm
+# Notes on building 32-bit Arm at Packet
 
 Ed Vielmetti, Packet
 
