@@ -16,3 +16,5 @@ Ed Vielmetti, Packet
 ### Jenkins + libvirt (Lollipop Cloud)
 
 ### Nixpkgs (NixOS)
+
+### Gitlab CI
