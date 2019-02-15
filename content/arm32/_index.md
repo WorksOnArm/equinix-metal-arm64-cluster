@@ -9,13 +9,18 @@ Ed Vielmetti, Packet
 
 Execute 32-bit Arm codes in a 32-bit only environment on
 a server that is capable of running both 32-bit and 64-bit 
-code.
+code. 
 
 ## Hosted CI options
 
-Drone CI offers a 32-bit build environment.
+[Drone Cloud](https://cloud.drone.io) offers a 32-bit build environment. 
+Drone supports multi-machine, multi-platform pipelines. This is useful 
+when you need to build and test your code on multiple architectures and operating systems.
+See the Drone documentation for [Multi-Platfrom](https://readme.drone.io/config/pipeline/multi-platform/)
+for detailed instructions.
 
-Balena offers a 32-bit build environment.
+[Balena](https://www.balena.io/) offers a 32-bit build environment.
+Balena is a complete set of tools for building, deploying, and managing fleets of connected Linux devices.
 
 ## Hardware options at Packet
 
@@ -37,12 +42,18 @@ for details on this processor family.
 
 [Docker builds on ARM servers: you’re not crazy, your builds really are 5x faster](https://www.balena.io/blog/docker-builds-on-arm-servers-youre-not-crazy-your-builds-really-are-5x-faster/), 2 August 2017.
 
+### Docker
+
 ### Drone CI
 
 [Announcing Drone Cloud, A Free Continuous Integration Service for x86 and Arm](https://blog.drone.io/drone-cloud/), 21 November 2018.
 
 ### Gitlab CI
 
+Use the [GitLab Runner](https://docs.gitlab.com/runner/) in a suitable execution environment.
+
 ### Jenkins + libvirt (Lollipop Cloud)
 
-### Nixpkgs (NixOS)
+[libvirt](https://libvirt.org/) is a virtualization API for virtual machines.
+
+### Linux native support
