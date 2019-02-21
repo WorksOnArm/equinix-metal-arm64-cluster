@@ -45,6 +45,14 @@ and start building Docker images for ARM. There is no other special configuratio
 All Codefresh features (unit/integration tests, private Docker registry, on-demand demo 
 environments, HELM/Kubernetes deployments etc.) are fully available for ARM builds.
 
+### Drone and Drone Cloud
+
+[Drone Cloud](https://cloud.drone.io) is a free CI system for open source projects hosted in Github. It enables
+native builds on 64-bit Intel and 32-bit and 64-bit Arm systems through a hosted plaform. Add
+Drone Cloud to your build by setting up a `.drone.yml` file.
+
+Drone Cloud is a free service for Open Source projects only.
+
 ### Github
 
 Github is a source code management system with integrations into many
