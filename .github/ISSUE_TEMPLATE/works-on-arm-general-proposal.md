@@ -2,15 +2,28 @@
 name: Works on Arm general proposal
 about: Propose a project for Works on Arm
 title: 'Proposal: [Your project name here]'
-labels: 'proposal'
+labels: 'proposal', '2019-2020'
 assignees: vielmetti
 
 ---
 
 If you are interested in filing a request for access to the Works on Arm test and 
-CI infrastructure, please fill out the details below, or contact Ed Vielmetti at ed@packet.net with questions.
+CI infrastructure, please fill out the details below, or contact Ed Vielmetti at ed@packet.com with questions.
 
 If you are just making a comment, ignore/delete those fields and file your issue.
+
+Please note the following:
+
+- [ ] Works on Arm sponsorship to be approved by Arm representative
+- [ ] Works on Arm sponsorship to be approved by Packet representative
+
+Proposals will be evaluated on a twice monthly cycle by Arm and Packet.
+
+Approved projects will be expected to provide credit back to the project
+in the form of a logo display, blog post, Twitter post, news release, or
+some other suitable acknowledgement.
+
+Approved projects are subject to a 60 day review process for termination.
 
 ### Name, email, company, job title
 
@@ -33,6 +46,8 @@ support organizations that can help with long-running projects.
 ### Describe the continuous integration (CI) system in use or desired for this project.
 
 Are you testing every check-in on arm64? (Would you like to?) If so, share a public URL of a CI dashboard.
+
+Are you using a hosted CI system for some or all of your existing testing? 
 
 ### Describe the monitoring system in use or desired for this project.
 
