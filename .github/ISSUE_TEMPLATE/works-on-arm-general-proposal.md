@@ -15,12 +15,6 @@ If you are just making a comment, ignore/delete those fields and file your issue
 
 Proposals will be evaluated on a biweekly cycle by Arm and Packet.
 
-Approved projects will be expected to provide credit back to Works on Arm
-in the form of a logo display, blog post, Twitter post, news release, or
-some other suitable acknowledgement.
-
-Approved projects are subject to a 90 day review process for termination.
-
 ### Name, email, company, job title
 
 Note that projects with two or more participants are preferred.
@@ -48,3 +42,22 @@ Are you using a hosted CI system for some or all of your existing testing?
 ### Please state your contributions to the open source community and any other relevant initiatives.
 
 Brag a little bit about yourself, please!
+
+## Important reminders and logistics
+
+Approved projects will be expected to provide credit back to Works on Arm
+in the form of a logo display, blog post, Twitter post, news release, or
+some other suitable acknowledgement.
+
+Approved projects are subject to a 90 day review process for termination.
+When you are done with the project, please let `info@worksonarm.com` know
+so that we can reuse the hardware for someone else!
+
+Sometimes projects change ownership or key people. Please let
+`info@worksonarm.com` know promptly if we need to communicate with new folks.
+
+For more project information, see the following social channels:
+
+* Twitter: [@ArmSoftwareDev](https://twitter/ArmSoftwareDev)
+* Discord, Arm Developer Ecosystem
+* Arm Developer Commmunity, [Infrastructure Solutions forum](https://community.arm.com/developer/f/infrastructure-solution)
