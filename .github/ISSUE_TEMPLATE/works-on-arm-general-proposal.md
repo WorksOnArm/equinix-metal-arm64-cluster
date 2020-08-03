@@ -2,28 +2,18 @@
 name: Works on Arm general proposal
 about: Propose a project for Works on Arm
 title: 'Proposal: [Your project name here]'
-labels: 'proposal', '2019-2020'
-assignees: vielmetti
+labels: 'proposal', '2020-2021'
+assignees: vielmetti, kushalkoolwal
 
 ---
 
 If you are interested in filing a request for access to the Works on Arm test and 
-CI infrastructure, please fill out the details below, or contact Ed Vielmetti at ed@packet.com with questions.
+CI infrastructure, please fill out the details below, or contact
+info@worksonarm.com for questions.
 
 If you are just making a comment, ignore/delete those fields and file your issue.
 
-Please note the following:
-
-- [ ] Works on Arm sponsorship to be approved by Arm representative
-- [ ] Works on Arm sponsorship to be approved by Packet representative
-
-Proposals will be evaluated on a twice monthly cycle by Arm and Packet.
-
-Approved projects will be expected to provide credit back to the project
-in the form of a logo display, blog post, Twitter post, news release, or
-some other suitable acknowledgement.
-
-Approved projects are subject to a 60 day review process for termination.
+Proposals will be evaluated on a biweekly cycle by Arm and Packet.
 
 ### Name, email, company, job title
 
@@ -37,7 +27,7 @@ Note that projects with two or more participants are preferred.
 
 Provide the URLs where it is located, or a Git repository.
 
-### What infrastructure (computing resources and network access) do you need? (see: https://www.packet.net/bare-metal/)?
+### What infrastructure (computing resources and network access) do you need?
 
 Let us know if you need short-term (one time) support, or if this is a request for
 continuous ongoing support. If possible, please identify foundations or other
@@ -49,10 +39,25 @@ Are you testing every check-in on arm64? (Would you like to?) If so, share a pub
 
 Are you using a hosted CI system for some or all of your existing testing? 
 
-### Describe the monitoring system in use or desired for this project.
-
-Are you running an agent on any long-running servers to track system status? Are you willing to share that data with the project? Examples might include a Prometheus metric endpoint or a Grafana dashboard.
-
-### Please state your contributions to the open source community and any other relevant initiatives
+### Please state your contributions to the open source community and any other relevant initiatives.
 
 Brag a little bit about yourself, please!
+
+## Important reminders and logistics
+
+Approved projects will be expected to provide credit back to Works on Arm
+in the form of a logo display, blog post, Twitter post, news release, or
+some other suitable acknowledgement.
+
+Approved projects are subject to a 90 day review process for termination.
+When you are done with the project, please let `info@worksonarm.com` know
+so that we can reuse the hardware for someone else!
+
+Sometimes projects change ownership or key people. Please let
+`info@worksonarm.com` know promptly if we need to communicate with new folks.
+
+For more project information, see the following social channels:
+
+* Twitter: [@ArmSoftwareDev](https://twitter/ArmSoftwareDev)
+* Discord, Arm Developer Ecosystem
+* Arm Developer Commmunity, [Infrastructure Solutions forum](https://community.arm.com/developer/f/infrastructure-solution)
