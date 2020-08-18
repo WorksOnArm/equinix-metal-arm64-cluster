@@ -4,6 +4,7 @@ about: 'Propose a project for Works on Arm'
 title: 'Proposal: [Your project name here]'
 labels: 'proposal', '2020-2021'
 assignees: vielmetti, kushalkoolwal
+
 ---
 
 If you are interested in filing a request for access to the Works on Arm test and 
