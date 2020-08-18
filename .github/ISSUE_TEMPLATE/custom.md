@@ -1,9 +1,9 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
+name: Request access to Works on Arm
+about: Proposal for Works on Arm access
+title: 'Proposal - project name'
 labels: ''
-assignees: ''
+assignees: 'vielmetti, kushalkoolwal'
 
 ---
 
