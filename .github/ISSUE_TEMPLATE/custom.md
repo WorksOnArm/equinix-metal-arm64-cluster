@@ -1,64 +1,53 @@
 ---
-name: Request access to Works on Arm
-about: Proposal for Works on Arm access
-title: 'Proposal - project name'
+name: Request access for building gollvm
+about: Build automation of https://go.googlesource.com/gollvm/ (llvm-goc and libgo) and end-user Go projects
+title: 'Aarch64 port of gollvm'
 labels: ''
-assignees: 'vielmetti, kushalkoolwal'
+assignees: 'vielmetti, pgmwoa'
 
 ---
 
 
-If you are interested in filing a request for access to the Works on Arm test and 
-CI infrastructure, please fill out the details below, or contact
-info@worksonarm.com for questions.
+Ivan Serdyuk, local.tourist.kiev@gmail.com, Self-employed, Web developer/DevOps
+Than Macintosh, thanm@google.com, Google, Compiler developer
+Ian Lance Taylor, ian@airs.com, Google, Programmer
+Eric Fang, eric.fang@arm.com, ARM, Software Engineer
 
-If you are just making a comment, ignore/delete those fields and file your issue.
 
-Proposals will be evaluated on a biweekly cycle by Arm and Packet.
 
-### Name, email, company, job title
+Gollvm is an LLVM-based Go compiler. It incorporates “gofrontend” (a Go language front end written in C++ and shared with GCCGO), a bridge component (which translates from gofrontend IR to LLVM IR), and a driver that sends the resulting IR through the LLVM back end.
 
-Note that projects with two or more participants are preferred.
+Probably ARM centric Go developers
 
-### Project Title and description
+https://github.com/llvm/llvm-project.git
+https://go.googlesource.com/gollvm/
+https://go.googlesource.com/gofrontend
+https://github.com/libffi/libffi.git
+https://github.com/ianlancetaylor/libbacktrace.git
+https://gmplib.org/download/gmp/gmp-6.2.0.tar.bz2
+https://www.mpfr.org/mpfr-current/mpfr-4.1.0.tar.bz2
+https://ftp.gnu.org/gnu/mpc/mpc-1.2.0.tar.gz
 
-### Which members of the community would benefit from your work?
+What would be required:
+- complete list of CPU features, for available ARM cores/CPU models (LLVM related)
+- VMs, containers on ARM servers for
+- integration with CI pipelining ("debug", "release" builds)
+- pre-defined configurations of specific OSs (mainly Linux distros/falvors - but ARM ports of other OSs are welcome, as well), for testing installation
+- a list of end-user software, in Golang, to build with gollvm (result would be shared with external people, to open bug reports/patching)
+- SIMD and auto-vect. benchmarking tools (like for gonum and other stuff)
 
-### Is the code that you’re going to run 100% open source? 
+There are no specific issues, regarding general CI, for building gollvm (open for propositions).
+As for building Kubernetes, containerd and other CNCF projects - available testing pipelines, to test virtualization middleware, would be of help (hence that despite the same front-end calling conventions and the linker differs, compared to the main-go)
 
-Provide the URLs where it is located, or a Git repository.
+>Are you testing every check-in on arm64? (Would you like to?) If so, share a public URL of a CI dashboard.
+Not sure what this means, really.
 
-### What infrastructure (computing resources and network access) do you need?
+There where some tryouts to use Github Actions (for x86_64, on Azure):
+https://github.com/advancedwebdeveloper/clang_test_cpu_features/blob/main/.github/workflows/llvm.yml
+If you are providing https://docs.github.com/en/free-pro-team@latest/actions/hosting-your-own-runners/about-self-hosted-runners , on ARM servers - we could give in a try.
 
-Let us know if you need short-term (one time) support, or if this is a request for
-continuous ongoing support. If possible, please identify foundations or other
-support organizations that can help with long-running projects.
+I am heading to contribute into i686 support (unrelated to this request).
+My interest is in contributing into both Golang's language front-end and specific back-ends.
+I am interested to promote gollvm among the owners of small and entermidiate sized businesses (variuous domains).
 
-### Describe the continuous integration (CI) system in use or desired for this project.
 
-Are you testing every check-in on arm64? (Would you like to?) If so, share a public URL of a CI dashboard.
-
-Are you using a hosted CI system for some or all of your existing testing? 
-
-### Please state your contributions to the open source community and any other relevant initiatives.
-
-Brag a little bit about yourself, please!
-
-## Important reminders and logistics
-
-Approved projects will be expected to provide credit back to Works on Arm
-in the form of a logo display, blog post, Twitter post, news release, or
-some other suitable acknowledgement.
-
-Approved projects are subject to a 90 day review process for termination.
-When you are done with the project, please let `info@worksonarm.com` know
-so that we can reuse the hardware for someone else!
-
-Sometimes projects change ownership or key people. Please let
-`info@worksonarm.com` know promptly if we need to communicate with new folks.
-
-For more project information, see the following social channels:
-
-* Twitter: [@ArmSoftwareDev](https://twitter/ArmSoftwareDev)
-* Discord, Arm Developer Ecosystem
-* Arm Developer Commmunity, [Infrastructure Solutions forum](https://community.arm.com/developer/f/infrastructure-solution)
