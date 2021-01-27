@@ -28,6 +28,8 @@ Note that projects with two or more participants are preferred.
 
 Provide the URLs where it is located, or a Git repository.
 
+### Does this project require armv8.2 (Yes/No/Not Sure)?
+
 ### What infrastructure (computing resources and network access) do you need?
 
 Let us know if you need short-term (one time) support, or if this is a request for
