@@ -2,7 +2,7 @@
 name: Request access to Works on Arm
 about: Proposal for Works on Arm access
 title: 'Proposal - project name'
-labels: ''
+labels: 'hardware/ampere-altra'
 assignees: 'vielmetti, kushalkoolwal'
 
 ---
