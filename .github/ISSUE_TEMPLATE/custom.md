@@ -1,9 +1,9 @@
 ---
 name: Request access to Works on Arm
 about: Proposal for Works on Arm access
-title: 'Proposal - project name'
+title: 'Project name - Works On Arm Sponsored'
 labels: 'hardware/ampere-altra'
-assignees: 'vielmetti, kushalkoolwal'
+assignees: 'vielmetti, kushalkoolwal, pgmwoa'
 
 ---
 
