@@ -8,12 +8,11 @@ assignees: pgmwoa
 ---
 
 If you are interested in filing a request for access to the Works on Arm test and 
-CI infrastructure, please fill out the details below, or contact
-info@worksonarm.com for questions.
+CI infrastructure, please fill out the details below.
 
 If you are just making a comment, ignore/delete those fields and file your issue.
 
-Proposals will be evaluated on a biweekly cycle by Arm and Packet.
+Proposals will be evaluated on a biweekly cycle by Arm and Equinix Metal.
 
 ### Name, email, company, job title
 
@@ -52,14 +51,10 @@ in the form of a logo display, blog post, Twitter post, news release, or
 some other suitable acknowledgement.
 
 Approved projects are subject to a 90 day review process for termination.
-When you are done with the project, please let `info@worksonarm.com` know
-so that we can reuse the hardware for someone else!
-
-Sometimes projects change ownership or key people. Please let
-`info@worksonarm.com` know promptly if we need to communicate with new folks.
+When you are done with the project or there is a change in ownership, please add comment on this issue so that we can reuse the hardware for someone else!
 
 For more project information, see the following social channels:
 
 * Twitter: [@ArmSoftwareDev](https://twitter/ArmSoftwareDev)
-* Discord, Arm Developer Ecosystem
-* Arm Developer Commmunity, [Infrastructure Solutions forum](https://community.arm.com/developer/f/infrastructure-solution)
+* Discord, [@Arm Developer Ecosystem](https://discord.gg/H5ETM7C)
+* Arm Developer Community, [Infrastructure Solutions forum](https://community.arm.com/developer/f/infrastructure-solution)
