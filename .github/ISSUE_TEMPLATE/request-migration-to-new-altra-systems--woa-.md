@@ -52,11 +52,8 @@ in the form of a logo display, blog post, Twitter post, news release, or
 some other suitable acknowledgement.
 
 Approved projects are subject to a 90 day review process for termination.
-When you are done with the project, please let `info@worksonarm.com` know
+When you are done with the project or there is a change in ownership, please add commet on this issue
 so that we can reuse the hardware for someone else!
-
-Sometimes projects change ownership or key people. Please let
-`info@worksonarm.com` know promptly if we need to communicate with new folks.
 
 For more project information, see the following social channels:
 
