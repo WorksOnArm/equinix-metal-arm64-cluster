@@ -51,7 +51,9 @@ in the form of a logo display, blog post, Twitter post, news release, or
 some other suitable acknowledgement.
 
 Approved projects are subject to a 90 day review process for termination.
-When you are done with the project or there is a change in ownership, please add comment on this issue so that we can reuse the hardware for someone else!
+
+When resources are not required anymore or when the project ends, please add comments on this issue so that we can reuse the hardware for someone else!
+In case a project goes through ownership change or key people leaving, please promptly inform the team by adding comments on this issue. Our team will maintain dialogue with  new members.
 
 For more project information, see the following social channels:
 
