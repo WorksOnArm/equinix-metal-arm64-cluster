@@ -55,6 +55,6 @@ When you are done with the project or there is a change in ownership, please add
 
 For more project information, see the following social channels:
 
-* Twitter: [@ArmSoftwareDev](https://twitter/ArmSoftwareDev)
+* Twitter: [@ArmSoftwareDev](https://twitter.com/ArmSoftwareDev)
 * Discord, [@Arm Developer Ecosystem](https://discord.gg/H5ETM7C)
 * Arm Developer Community, [Infrastructure Solutions forum](https://community.arm.com/developer/f/infrastructure-solution)
