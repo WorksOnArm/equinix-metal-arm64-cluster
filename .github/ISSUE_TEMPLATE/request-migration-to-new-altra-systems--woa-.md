@@ -58,5 +58,5 @@ so that we can reuse the hardware for someone else!
 For more project information, see the following social channels:
 
 * Twitter: [@ArmSoftwareDev](https://twitter/ArmSoftwareDev)
-* Discord, Arm Developer Ecosystem
+* Discord, Arm Developer Ecosystem (https://discord.gg/deveco)
 * Arm Developer Community, [Infrastructure Solutions forum](https://community.arm.com/developer/f/infrastructure-solution)
