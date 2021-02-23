@@ -1,20 +1,18 @@
 ---
 name: Request access to Works on Arm
 about: Proposal for Works on Arm access
-title: 'Proposal - project name'
-labels: ''
-assignees: 'vielmetti, kushalkoolwal'
+title: Project name - Works On Arm Sponsored
+labels: hardware/ampere-altra
+assignees: pgmwoa
 
 ---
 
-
 If you are interested in filing a request for access to the Works on Arm test and 
-CI infrastructure, please fill out the details below, or contact
-info@worksonarm.com for questions.
+CI infrastructure, please fill out the details below.
 
 If you are just making a comment, ignore/delete those fields and file your issue.
 
-Proposals will be evaluated on a biweekly cycle by Arm and Packet.
+Proposals will be evaluated on a biweekly cycle by Arm and Equinix Metal.
 
 ### Name, email, company, job title
 
@@ -27,6 +25,8 @@ Note that projects with two or more participants are preferred.
 ### Is the code that you’re going to run 100% open source? 
 
 Provide the URLs where it is located, or a Git repository.
+
+### Does this project require ARMv8.2 (Yes/No/Not Sure)?
 
 ### What infrastructure (computing resources and network access) do you need?
 
@@ -51,14 +51,12 @@ in the form of a logo display, blog post, Twitter post, news release, or
 some other suitable acknowledgement.
 
 Approved projects are subject to a 90 day review process for termination.
-When you are done with the project, please let `info@worksonarm.com` know
-so that we can reuse the hardware for someone else!
 
-Sometimes projects change ownership or key people. Please let
-`info@worksonarm.com` know promptly if we need to communicate with new folks.
+When resources are not required anymore or when the project ends, please add comments on this issue so that we can reuse the hardware for someone else!
+In case a project goes through ownership change or key people leaving, please promptly inform the team by adding comments on this issue. Our team will maintain dialogue with  new members.
 
 For more project information, see the following social channels:
 
-* Twitter: [@ArmSoftwareDev](https://twitter/ArmSoftwareDev)
-* Discord, Arm Developer Ecosystem
-* Arm Developer Commmunity, [Infrastructure Solutions forum](https://community.arm.com/developer/f/infrastructure-solution)
+* Twitter: [@ArmSoftwareDev](https://twitter.com/ArmSoftwareDev)
+* Discord, [@Arm Developer Ecosystem](https://discord.gg/H5ETM7C)
+* Arm Developer Community, [Infrastructure Solutions forum](https://community.arm.com/developer/f/infrastructure-solution)
