@@ -3,16 +3,13 @@ name: Request access to Works on Arm
 about: Proposal for Works on Arm access
 title: Project name - Works On Arm Sponsored
 labels: hardware/ampere-altra
-assignees: pgmwoa,vielmetti,kushalkoolwal
-
+assignees: pgmwoa,vielmetti,kushalkoolwal,sblackstealth
 ---
 
 If you are interested in filing a request for access to the Works on Arm test and 
 CI infrastructure, please fill out the details below.
 
-If you are just making a comment, ignore/delete those fields and file your issue.
-
-Proposals will be evaluated on a biweekly cycle by Arm and Equinix Metal.
+Proposals will be evaluated on a biweekly cycle or on a best effort basis by Arm and Equinix Metal.
 
 ### Name, email, company, job title
 
@@ -20,13 +17,15 @@ Note that projects with two or more participants are preferred.
 
 ### Project Title and description
 
+### Describe your use case for these machines
+
 ### Which members of the community would benefit from your work?
 
 ### Is the code that you’re going to run 100% open source? 
 
 Provide the URLs where it is located, or a Git repository.
 
-### Does this project require ARMv8.2 (Yes/No/Not Sure)?
+### Does this project require ARMv8.2 (Yes/No/Not Sure)? If Yes, please provide details 
 
 ### What infrastructure (computing resources and network access) do you need?
 
@@ -34,11 +33,11 @@ Let us know if you need short-term (one time) support, or if this is a request f
 continuous ongoing support. If possible, please identify foundations or other
 support organizations that can help with long-running projects.
 
-### Describe the continuous integration (CI) system in use or desired for this project.
+### Describe / Name the continuous integration (CI) system for this project.
 
-Are you testing every check-in on arm64? (Would you like to?) If so, share a public URL of a CI dashboard.
+Will these machines be exclusively used for CI purposes?
 
-Are you using a hosted CI system for some or all of your existing testing? 
+Please share a public URL of the CI dashboard (if applicable).
 
 ### Please state your contributions to the open source community and any other relevant initiatives.
 
