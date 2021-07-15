@@ -39,7 +39,10 @@ Will these machines be exclusively used for CI purposes?
 
 Please share a public URL of the CI dashboard (if applicable).
 
-### Does the project allows the use of 'logo' on ARM's developer website freely?
+### Does the project allows the use of 'logo' on ARM's developer website freely? Yes / No / Not Sure
+
+If No / Not Sure, Please share the relevant contact.
+
 
 ### Please state your contributions to the open source community and any other relevant initiatives.
 
