@@ -43,7 +43,6 @@ Please share a public URL of the CI dashboard (if applicable).
 
 If No / Not Sure, Please share the relevant contact.
 
-
 ### Please state your contributions to the open source community and any other relevant initiatives.
 
 Brag a little bit about yourself, please!
