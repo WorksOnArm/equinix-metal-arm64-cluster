@@ -1,4 +1,4 @@
-# Works on Arm Cluster
+# Works on Arm Equinix Metal Cluster
 
 Arm and Equinix Metal have partnered to make powerful Neoverse based Armv8 bare metal infrastructure
 including latest generation Ampere and Marvell systems — available for open source software
