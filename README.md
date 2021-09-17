@@ -12,4 +12,4 @@ Funding for the system is provided by Arm Inc.
 
 Apply to use the on-demand infrastructure by [creating an issue](https://github.com/WorksOnArm/equinix-metal-arm64-cluster/issues/new/choose) in this repository.
 
-Add comments to existing issue for any change in authorized users (add/remove/edit) or infrastructure requirements (machine type/number). 
+Add comments to existing issue for any change in authorized users (add/remove/edit) or change in infrastructure requirements (machine type/number). 
